@@ -341,3 +341,23 @@ nav .logo-container .logo {
   color: white; /* Text color */
   cursor: pointer;
 }
+
+.p-button {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text color */
+    padding: 15px 32px; /* Padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make it inline */
+    font-size: 16px; /* Font size */
+    margin: 4px 2px; /* Margin */
+    cursor: pointer; /* Add cursor pointer */
+    border-radius: 4px; /* Rounded corners */
+    transition-duration: 0.4s; /* Smooth transition on hover */
+}
+
+/* Hover effect */
+.p-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
