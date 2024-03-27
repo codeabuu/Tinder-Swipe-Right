@@ -13,6 +13,8 @@
 - Back-End (NodeJS, ExpressJS)
 - Database (MongoDB- NoSQL)
 
+![Landing Page](https://github.com/codeabuu/Tinder-Swipe-Right/blob/main/SignIn%20Console.png)
+
 ## App Design & Main Features
 
 - Once you create an account, you will start seeing profiles of different users based on your preferences.
