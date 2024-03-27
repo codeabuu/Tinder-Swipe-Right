@@ -4,7 +4,7 @@
 
 ## Team Project by: Lawrence Maduabuchi & Abdullahi Ngui
 
-# Project done during **Short Specialization** at **ALX School**. This is our Final Project in ALX, to showcase our creativity and skills\*\*.
+## Project done during **Short Specialization** at **ALX School**. This is our Final Project in ALX, to showcase our creativity and skills\*\*.
 
 ## Technologies
 
