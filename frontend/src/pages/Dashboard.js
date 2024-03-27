@@ -16,7 +16,7 @@ const Dashboard = () => {
     const getUser = async () => {
         try {
 	    if (!userId) return
-            const response = await axios.get('http://localhost:3000/user', {
+            const response = await axios.get('http://localhost:8000/user', {
                 params: {userId}
             })
             setUser(response.data)
