@@ -1,0 +1,8 @@
+nodemon
+express
+mongodb
+bcrypt
+cors
+uuid
+jsonwebtoken
+validators

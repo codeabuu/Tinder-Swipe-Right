@@ -1,0 +1,6 @@
+react
+react-dom
+react-router-dom
+react-tinder-card
+axios
+react-cookie
