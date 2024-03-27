@@ -17,7 +17,6 @@ const MatchesDisplay = ({ matches, setClickedUser }) => {
       setMatchedProfiles(response.data);
     } catch (error) {
       console.error("Error fetching matches:", error);
-      // You can add error handling here
     }
   };
 
