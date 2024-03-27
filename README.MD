@@ -1,11 +1,10 @@
 <h1 align="center">Team Project By: 👋,ɭaƜƦ៩♬c៩ Maduabuc♬ι & Abduɭɭahι Nguι </h1>
-# Tinder Web Clone App
 
-# Webstack – Portfolio Project
+## Tinder Web Clone App
 
-## Team Project by: Lawrence Maduabuchi & Abdullahi Ngui
+## Webstack – Portfolio Project
 
-## Project done during **Short Specialization** at **ALX School**. This is our Final Project in ALX, to showcase our creativity and skills\*\*.
+## Project done during Short Specialization at ALX School. This is our Final Project in ALX, to showcase our creativity and skills.
 
 ## Technologies
 
