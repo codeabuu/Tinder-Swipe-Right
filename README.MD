@@ -28,7 +28,7 @@
 | Components      | Description                                                                                                                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ` Dependencies` | All Dependencies are available on the requirement.txt on both frontend and backend                                                                                                              |
-| ` Endpoints:`   | You can get the endpoint documentation <a href= "https://docs.google.com/document/d/11hq85J4RLMP7Ghn0Uraix8e3Q2VWVxE1/edit?usp=sharing&ouid=108776614189239131961&rtpof=true&sd=true"> target="_blank">HERE.</a>  |
+| ` Endpoints:`   | You can get the endpoint documentation <a href= "https://docs.google.com/document/d/11hq85J4RLMP7Ghn0Uraix8e3Q2VWVxE1/edit?usp=sharing&ouid=108776614189239131961&rtpof=true&sd=true" target="_blank">HERE.</a>  |
 
 <br>Steps in Running the Tinder Swipe-Right Clone App</br>
 
