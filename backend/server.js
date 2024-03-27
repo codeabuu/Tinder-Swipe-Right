@@ -7,6 +7,7 @@ const cors = require('cors')
 const bcrypt = require('bcrypt')
 const validator = require('validator')
 
+//mongodb api key
 const uri = "mongodb+srv://qasenator:alx@cluster0.0pxjqhb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 const app = express()
