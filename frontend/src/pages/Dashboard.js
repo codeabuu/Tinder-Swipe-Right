@@ -16,7 +16,7 @@ const Dashboard = () => {
     const getUser = async () => {
         try {
 	    if (!userId) return
-            const response = await axios.get('http://localhost:8000/user', {
+            const response = await axios.get('https://tinder-swipe-right.onrender.com/user', {
                 params: {userId}
             })
             setUser(response.data)
@@ -27,7 +27,7 @@ const Dashboard = () => {
     const getGenderedUsers = async () => {
         try {
 	    if (!userId || !user) return
-            const response = await axios.get('http://localhost:8000/gendered-users', {
+            const response = await axios.get('https://tinder-swipe-right.onrender.com/gendered-users', {
                 params: {gender: user?.gender_interest}
             })
 	    
@@ -51,7 +51,7 @@ const Dashboard = () => {
     const updateMatches = async (matchedUserId) => {
         try {
 	    if (!userId) return
-            await axios.put('http://localhost:8000/addmatch', {
+            await axios.put('https://tinder-swipe-right.onrender.com/addmatch', {
                 userId,
                 matchedUserId
             })
