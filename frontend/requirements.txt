@@ -1,4 +1,0 @@
-react-router-dom
-react-tinder-card
-axios
-react-cookie
